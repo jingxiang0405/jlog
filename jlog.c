@@ -1,4 +1,4 @@
-#include "../header/jlog.h"
+#include "jlog.h"
 #include <time.h>
 
 #define ANSI_RED    "\e[0;31m"
